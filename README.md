@@ -1,6 +1,7 @@
 🏨 Hotel Management System in C++
 
 A beginner–friendly console-based C++ project
+
 #Hex #HexSoftwares
 
 <hr>
@@ -10,10 +11,15 @@ A beginner–friendly console-based C++ project
 This Hotel Management System is a simple and interactive console-based project built using Object-Oriented Programming (OOP) in C++.
 
 It manages:
+
 ✔ Room allotment
+
 ✔ Food ordering
+
 ✔ Stock / menu management
+
 ✔ Daily sales tracking
+
 ✔ File-based data storage
 
 This project is perfect for beginners learning C++, classes, file handling, and basic application development.
@@ -21,7 +27,8 @@ This project is perfect for beginners learning C++, classes, file handling, and 
 <hr>
 
 🧰 Features
-🛏 Room Management
+
+🛏 ROOM MANAGEMENT :-
 
 Display all rooms
 
@@ -31,7 +38,7 @@ Release room after checkout
 
 Auto-calculate room charges
 
-🍔 Food Ordering System
+🍔 FOOD ORDERING SYSTEM :-
 
 Display food menu
 
@@ -41,19 +48,19 @@ Deduct stock automatically
 
 Add to daily sales
 
-📦 Stock / Menu Management (Admin)
+📦 STOCK / MENU MANAGEMENT (ADMIN) :-
 
 Update food stock
 
 Add new menu items
 
-💰 Sales & Reporting
+💰 SALES & REPORTING :-
 
 Calculate total sales for the day
 
 Save all records automatically
 
-💾 Data Persistence
+💾 DATA PERSISTENCE :-
 
 Data is saved and loaded through:
 
@@ -66,8 +73,6 @@ sales.dat
 <hr>
 
 🖥 Output Preview
-
-(You can replace these with real screenshots later from your system.)
 
 --- Hotel Management ---
 
@@ -97,7 +102,7 @@ Basic Console UI
 📦 How to Run the Program
 
 1️⃣ Clone the repository:
-git clone https://github.com/your-username/Hotel-Management-System-Cpp.git
+git clone https://github.com/Mysterious-07/Hotel-Management-System-Cpp.git
 
 2️⃣ Compile the source file:
 g++ -std=c++17 hotel.cpp -o hotel
