@@ -1,7 +1,9 @@
 🏨 Hotel Management System in C++
 
 A beginner–friendly console-based C++ project
-#Hex #HexSoftware
+#Hex #HexSoftwares
+
+<hr>
 
 📌 Project Overview
 
@@ -15,6 +17,8 @@ It manages:
 ✔ File-based data storage
 
 This project is perfect for beginners learning C++, classes, file handling, and basic application development.
+
+<hr>
 
 🧰 Features
 🛏 Room Management
@@ -59,11 +63,14 @@ menu.dat
 
 sales.dat
 
+<hr>
+
 🖥 Output Preview
 
 (You can replace these with real screenshots later from your system.)
 
 --- Hotel Management ---
+
 1. Show rooms
 2. Allot room
 3. Release room
@@ -72,6 +79,8 @@ sales.dat
 6. Update food stock
 7. Show today's collection
 8. Exit
+
+<hr>
 
 🛠 Technologies Used
 
@@ -83,7 +92,10 @@ Vectors (std::vector)
 
 Basic Console UI
 
+<hr>
+
 📦 How to Run the Program
+
 1️⃣ Clone the repository:
 git clone https://github.com/your-username/Hotel-Management-System-Cpp.git
 
@@ -92,6 +104,8 @@ g++ -std=c++17 hotel.cpp -o hotel
 
 3️⃣ Run the application:
 ./hotel
+
+<hr>
 
 🔍 Explanation of the Project
 
@@ -123,14 +137,25 @@ Menu stock
 
 Daily sales
 
+<hr>
+
 📁 File Structure
+
 Hotel-Management-System/
+
 │
+
 ├── hotel.cpp
+
 ├── rooms.dat
+
 ├── menu.dat
+
 ├── sales.dat
+
 └── README.md
+
+<hr>
 
 🚀 Future Enhancements
 
@@ -144,15 +169,23 @@ JSON or SQLite storage
 
 GUI using Qt / SFML / Web UI
 
+<hr>
+
 🏢 Developed For
 
-Hex Software — Task-1 Project
-#Hex #HexSoftware
+Hex Software — Task-2 Project
+
+#Hex #HexSoftwares
+
+<hr>
 
 🤝 Contributing
 
 Pull requests are welcome!
+
 Feel free to open issues for improvements or bugs.
+
+<hr>
 
 📜 License
 
